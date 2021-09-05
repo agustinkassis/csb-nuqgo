@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://agustinkassis.github.io/csb-nuqgo/static/css/main.e78ddc91.chunk.css",
+    "main.js": "https://agustinkassis.github.io/csb-nuqgo/static/js/main.3c3807e2.chunk.js",
+    "main.js.map": "https://agustinkassis.github.io/csb-nuqgo/static/js/main.3c3807e2.chunk.js.map",
+    "runtime-main.js": "https://agustinkassis.github.io/csb-nuqgo/static/js/runtime-main.57a019fc.js",
+    "runtime-main.js.map": "https://agustinkassis.github.io/csb-nuqgo/static/js/runtime-main.57a019fc.js.map",
+    "static/js/2.d78218a0.chunk.js": "https://agustinkassis.github.io/csb-nuqgo/static/js/2.d78218a0.chunk.js",
+    "static/js/2.d78218a0.chunk.js.map": "https://agustinkassis.github.io/csb-nuqgo/static/js/2.d78218a0.chunk.js.map",
+    "index.html": "https://agustinkassis.github.io/csb-nuqgo/index.html",
+    "static/css/main.e78ddc91.chunk.css.map": "https://agustinkassis.github.io/csb-nuqgo/static/css/main.e78ddc91.chunk.css.map",
+    "static/js/2.d78218a0.chunk.js.LICENSE.txt": "https://agustinkassis.github.io/csb-nuqgo/static/js/2.d78218a0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.57a019fc.js",
+    "static/js/2.d78218a0.chunk.js",
+    "static/css/main.e78ddc91.chunk.css",
+    "static/js/main.3c3807e2.chunk.js"
+  ]
+}
